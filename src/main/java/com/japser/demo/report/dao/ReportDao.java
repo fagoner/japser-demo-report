@@ -2,7 +2,6 @@ package com.japser.demo.report.dao;
 
 import net.sf.jasperreports.engine.*;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.core.io.ResourceLoader;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
